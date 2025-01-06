@@ -1,0 +1,47 @@
+#left {
+    margin: 0px;
+    position: static;
+    width: 300px;
+    height: 100px
+}
+
+div.middle{
+    position: static;
+    margin:20%;
+    margin-top: 100px;
+    margin-bottom: 0%;
+    color: azure;
+    border: brown;
+    border-style: double;
+    border-width: 5px;
+    padding: 50px;
+}
+
+
+#p01 {
+    font-family: 'Calistoga', cursive;
+    font-size: 4vw;
+    color: #ffffff;
+    font-weight: bold;
+    text-align: center;
+}
+
+
+
+
+.btn_space_left{
+    text-align: center;
+    margin-right: 25%;
+}
+
+.btn_space_right{
+    text-align: center;
+}
+
+body {
+    background-image: -webkit-linear-gradient(top, rgba(23, 24, 32, 0.5), rgba(23, 24, 32, 0.6)), url('../images/pic04.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    
+  }
